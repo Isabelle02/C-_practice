@@ -1,0 +1,13 @@
+D:\C#_practice\Sandwich\Sandwich\bin\Debug\netcoreapp3.1\Sandwich.exe
+D:\C#_practice\Sandwich\Sandwich\bin\Debug\netcoreapp3.1\Sandwich.deps.json
+D:\C#_practice\Sandwich\Sandwich\bin\Debug\netcoreapp3.1\Sandwich.runtimeconfig.json
+D:\C#_practice\Sandwich\Sandwich\bin\Debug\netcoreapp3.1\Sandwich.runtimeconfig.dev.json
+D:\C#_practice\Sandwich\Sandwich\bin\Debug\netcoreapp3.1\Sandwich.dll
+D:\C#_practice\Sandwich\Sandwich\bin\Debug\netcoreapp3.1\Sandwich.pdb
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.csprojAssemblyReference.cache
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.AssemblyInfoInputs.cache
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.AssemblyInfo.cs
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.csproj.CoreCompileInputs.cache
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.dll
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.pdb
+D:\C#_practice\Sandwich\Sandwich\obj\Debug\netcoreapp3.1\Sandwich.genruntimeconfig.cache

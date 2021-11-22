@@ -1,0 +1,13 @@
+D:\C#_practice\valid_parentheses\valid_parentheses\bin\Debug\netcoreapp3.1\valid_parentheses.exe
+D:\C#_practice\valid_parentheses\valid_parentheses\bin\Debug\netcoreapp3.1\valid_parentheses.deps.json
+D:\C#_practice\valid_parentheses\valid_parentheses\bin\Debug\netcoreapp3.1\valid_parentheses.runtimeconfig.json
+D:\C#_practice\valid_parentheses\valid_parentheses\bin\Debug\netcoreapp3.1\valid_parentheses.runtimeconfig.dev.json
+D:\C#_practice\valid_parentheses\valid_parentheses\bin\Debug\netcoreapp3.1\valid_parentheses.dll
+D:\C#_practice\valid_parentheses\valid_parentheses\bin\Debug\netcoreapp3.1\valid_parentheses.pdb
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.csprojAssemblyReference.cache
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.AssemblyInfoInputs.cache
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.AssemblyInfo.cs
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.csproj.CoreCompileInputs.cache
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.dll
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.pdb
+D:\C#_practice\valid_parentheses\valid_parentheses\obj\Debug\netcoreapp3.1\valid_parentheses.genruntimeconfig.cache

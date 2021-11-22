@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Clock_Type_Conversion_Operator/1.0.0": {
+        "runtime": {
+          "Clock_Type_Conversion_Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clock_Type_Conversion_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

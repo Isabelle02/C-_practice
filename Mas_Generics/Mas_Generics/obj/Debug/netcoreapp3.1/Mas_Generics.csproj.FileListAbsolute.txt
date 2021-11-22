@@ -1,0 +1,13 @@
+D:\C#_practice\Mas_Generics\Mas_Generics\bin\Debug\netcoreapp3.1\Mas_Generics.exe
+D:\C#_practice\Mas_Generics\Mas_Generics\bin\Debug\netcoreapp3.1\Mas_Generics.deps.json
+D:\C#_practice\Mas_Generics\Mas_Generics\bin\Debug\netcoreapp3.1\Mas_Generics.runtimeconfig.json
+D:\C#_practice\Mas_Generics\Mas_Generics\bin\Debug\netcoreapp3.1\Mas_Generics.runtimeconfig.dev.json
+D:\C#_practice\Mas_Generics\Mas_Generics\bin\Debug\netcoreapp3.1\Mas_Generics.dll
+D:\C#_practice\Mas_Generics\Mas_Generics\bin\Debug\netcoreapp3.1\Mas_Generics.pdb
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.csprojAssemblyReference.cache
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.AssemblyInfoInputs.cache
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.AssemblyInfo.cs
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.csproj.CoreCompileInputs.cache
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.dll
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.pdb
+D:\C#_practice\Mas_Generics\Mas_Generics\obj\Debug\netcoreapp3.1\Mas_Generics.genruntimeconfig.cache

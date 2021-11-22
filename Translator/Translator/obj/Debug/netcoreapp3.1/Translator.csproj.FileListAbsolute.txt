@@ -1,0 +1,13 @@
+D:\C#_practice\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.exe
+D:\C#_practice\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.deps.json
+D:\C#_practice\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.runtimeconfig.json
+D:\C#_practice\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.runtimeconfig.dev.json
+D:\C#_practice\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.dll
+D:\C#_practice\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.pdb
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.csprojAssemblyReference.cache
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.AssemblyInfoInputs.cache
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.AssemblyInfo.cs
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.csproj.CoreCompileInputs.cache
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.dll
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.pdb
+D:\C#_practice\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.genruntimeconfig.cache

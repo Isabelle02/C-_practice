@@ -1,0 +1,13 @@
+D:\C#_practice\SortMas\SortMas\bin\Debug\netcoreapp3.1\SortMas.exe
+D:\C#_practice\SortMas\SortMas\bin\Debug\netcoreapp3.1\SortMas.deps.json
+D:\C#_practice\SortMas\SortMas\bin\Debug\netcoreapp3.1\SortMas.runtimeconfig.json
+D:\C#_practice\SortMas\SortMas\bin\Debug\netcoreapp3.1\SortMas.runtimeconfig.dev.json
+D:\C#_practice\SortMas\SortMas\bin\Debug\netcoreapp3.1\SortMas.dll
+D:\C#_practice\SortMas\SortMas\bin\Debug\netcoreapp3.1\SortMas.pdb
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.csprojAssemblyReference.cache
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.AssemblyInfoInputs.cache
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.AssemblyInfo.cs
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.csproj.CoreCompileInputs.cache
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.dll
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.pdb
+D:\C#_practice\SortMas\SortMas\obj\Debug\netcoreapp3.1\SortMas.genruntimeconfig.cache

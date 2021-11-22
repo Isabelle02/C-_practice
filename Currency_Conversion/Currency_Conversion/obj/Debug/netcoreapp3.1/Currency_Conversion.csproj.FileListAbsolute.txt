@@ -1,0 +1,13 @@
+D:\C#_practice\Currency_Conversion\Currency_Conversion\bin\Debug\netcoreapp3.1\Currency_Conversion.exe
+D:\C#_practice\Currency_Conversion\Currency_Conversion\bin\Debug\netcoreapp3.1\Currency_Conversion.deps.json
+D:\C#_practice\Currency_Conversion\Currency_Conversion\bin\Debug\netcoreapp3.1\Currency_Conversion.runtimeconfig.json
+D:\C#_practice\Currency_Conversion\Currency_Conversion\bin\Debug\netcoreapp3.1\Currency_Conversion.runtimeconfig.dev.json
+D:\C#_practice\Currency_Conversion\Currency_Conversion\bin\Debug\netcoreapp3.1\Currency_Conversion.dll
+D:\C#_practice\Currency_Conversion\Currency_Conversion\bin\Debug\netcoreapp3.1\Currency_Conversion.pdb
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.csprojAssemblyReference.cache
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.AssemblyInfoInputs.cache
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.AssemblyInfo.cs
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.csproj.CoreCompileInputs.cache
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.dll
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.pdb
+D:\C#_practice\Currency_Conversion\Currency_Conversion\obj\Debug\netcoreapp3.1\Currency_Conversion.genruntimeconfig.cache

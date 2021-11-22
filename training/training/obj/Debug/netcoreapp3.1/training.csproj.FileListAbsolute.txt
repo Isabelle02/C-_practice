@@ -1,0 +1,13 @@
+D:\C#_practice\training\training\bin\Debug\netcoreapp3.1\training.exe
+D:\C#_practice\training\training\bin\Debug\netcoreapp3.1\training.deps.json
+D:\C#_practice\training\training\bin\Debug\netcoreapp3.1\training.runtimeconfig.json
+D:\C#_practice\training\training\bin\Debug\netcoreapp3.1\training.runtimeconfig.dev.json
+D:\C#_practice\training\training\bin\Debug\netcoreapp3.1\training.dll
+D:\C#_practice\training\training\bin\Debug\netcoreapp3.1\training.pdb
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.csprojAssemblyReference.cache
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.AssemblyInfoInputs.cache
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.AssemblyInfo.cs
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.csproj.CoreCompileInputs.cache
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.dll
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.pdb
+D:\C#_practice\training\training\obj\Debug\netcoreapp3.1\training.genruntimeconfig.cache

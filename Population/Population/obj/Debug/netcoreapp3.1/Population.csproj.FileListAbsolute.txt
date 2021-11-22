@@ -1,0 +1,13 @@
+D:\C#_practice\Population\Population\bin\Debug\netcoreapp3.1\Population.exe
+D:\C#_practice\Population\Population\bin\Debug\netcoreapp3.1\Population.deps.json
+D:\C#_practice\Population\Population\bin\Debug\netcoreapp3.1\Population.runtimeconfig.json
+D:\C#_practice\Population\Population\bin\Debug\netcoreapp3.1\Population.runtimeconfig.dev.json
+D:\C#_practice\Population\Population\bin\Debug\netcoreapp3.1\Population.dll
+D:\C#_practice\Population\Population\bin\Debug\netcoreapp3.1\Population.pdb
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.csprojAssemblyReference.cache
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.AssemblyInfoInputs.cache
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.AssemblyInfo.cs
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.csproj.CoreCompileInputs.cache
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.dll
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.pdb
+D:\C#_practice\Population\Population\obj\Debug\netcoreapp3.1\Population.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandwich", "Sandwich\Sandwich.csproj", "{3CD85D00-4D61-4C1F-BC56-24682ACBEBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD85D00-4D61-4C1F-BC56-24682ACBEBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD85D00-4D61-4C1F-BC56-24682ACBEBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD85D00-4D61-4C1F-BC56-24682ACBEBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD85D00-4D61-4C1F-BC56-24682ACBEBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {701E5540-70C5-4031-8FF4-B4D0A12A1C90}
+	EndGlobalSection
+EndGlobal
